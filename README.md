@@ -8,13 +8,14 @@ The system dynamics evolve with the following differential equation
 
 ![dyn](https://user-images.githubusercontent.com/30368346/119955952-d183e580-bfb5-11eb-8308-29bc84090d8c.JPG)
 
-where
-
-![inp](https://user-images.githubusercontent.com/30368346/119955959-d2b51280-bfb5-11eb-901b-c59fdd85a2ea.JPG),
+where 
 
 α=0.75 and β=1.5.
 
 ## Data
+The following input is applied to the system in order to 
+
+![inp](https://user-images.githubusercontent.com/30368346/119955959-d2b51280-bfb5-11eb-901b-c59fdd85a2ea.JPG),
 
 161 learning data and 40 test data.
 
@@ -35,6 +36,8 @@ and for output layer we have
 Also:
 
 ![X_vect](https://user-images.githubusercontent.com/30368346/119958124-faa57580-bfb7-11eb-99d4-555999e91373.PNG)
+
+![weight_vects](https://user-images.githubusercontent.com/30368346/119958567-65ef4780-bfb8-11eb-930d-3b36c134032f.PNG)
 
 ## RBF Network
 
